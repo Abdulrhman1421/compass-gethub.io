@@ -1,0 +1,9 @@
+input[type="button"]{
+    cursor:pointer;
+}
+button{
+    cursor:pointer;
+}
+th{
+    cursor: pointer;
+}
